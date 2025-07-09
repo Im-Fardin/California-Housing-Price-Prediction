@@ -17,12 +17,12 @@ A machine learning-powered pipeline to predict housing prices across California.
 ## Local Usage
 
 ```bash
--#Clone the repo
+#Clone the repo
 
 git clone https://github.com/Im-Fardin/California-Housing-Price-Prediction.git
 cd California-Housing-Price-Prediction
 
--#Install dependencies
+#Install dependencies
 
 pip install -r requirements.txt
 
